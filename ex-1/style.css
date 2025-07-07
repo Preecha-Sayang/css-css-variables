@@ -30,6 +30,7 @@
 
 .introduction {
 padding: var(--padding-level5);
+background-color: var(--secondary-color);
 }
 
 .introduction h1 {
