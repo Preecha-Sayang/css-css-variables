@@ -5,3 +5,13 @@
 }
 
 /* Start coding here */
+
+.introduction{
+  color: secondary;
+  padding: 20px;
+}
+
+.introduction h1{
+  color: #ff7f50;
+  font-size: 100px;
+}
